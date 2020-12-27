@@ -10,7 +10,7 @@ public class Fabnocci
 		int a=0;
 		int b=1;
 		int c;
-		System.out.println("enter the number for fibnocci serires to print");
+		System.out.println("enter the number  for fibnocci serires to print");
 		Scanner inputNumber = new Scanner(System.in);
 		int in = inputNumber.nextInt();
 		for(int i=0;i<in;i++)
